@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model
+END
+Segnalazioni.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Segnalazioni.java
+END
+Titolare.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Titolare.java
+END
+EmailconnectionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/EmailconnectionId.java
+END
+CaselliautostradeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/CaselliautostradeId.java
+END
+Comune.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Comune.java
+END
+Tipologia.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Tipologia.java
+END
+Regione.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Regione.java
+END
+Banners.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Banners.java
+END
+Provincia.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Provincia.java
+END
+Immagini.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Immagini.java
+END
+AziendeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/AziendeModel.java
+END
+Stazioni.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Stazioni.java
+END
+Calendario.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Calendario.java
+END
+ComuneId.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/ComuneId.java
+END
+Aeroporti.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Aeroporti.java
+END
+Emailconnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Emailconnection.java
+END
+Caselliautostrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Caselliautostrade.java
+END
+Brochure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Brochure.java
+END
+StazioniId.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/StazioniId.java
+END
+Caratteristiche.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Caratteristiche.java
+END
+Distretto.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/model/Distretto.java
+END

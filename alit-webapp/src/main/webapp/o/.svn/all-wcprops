@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/o
+END
+exception.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/o/exception.ftl
+END
+denied.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/o/denied.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/o/login.ftl
+END

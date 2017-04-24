@@ -1,0 +1,16 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="10" started-at="2014-04-24T23:24:11Z" finished-at="2014-04-24T23:24:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10" started-at="2014-04-24T23:24:11Z" finished-at="2014-04-24T23:24:11Z">
+      <class name="anna.alit.mock.UrlRewriteConfigurationTest">
+        <test-method status="PASS" signature="testRewrite1()" name="testRewrite1 on instance testRewrite1(anna.alit.mock.UrlRewriteConfigurationTest)" duration-ms="2" started-at="2014-04-24T23:24:11Z" finished-at="2014-04-24T23:24:11Z">
+        </test-method>
+        <test-method status="PASS" signature="testRewrite2()" name="testRewrite2 on instance testRewrite2(anna.alit.mock.UrlRewriteConfigurationTest)" duration-ms="0" started-at="2014-04-24T23:24:11Z" finished-at="2014-04-24T23:24:11Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/java/anna/alit/utilities
+END
+StringUtf8.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/StringUtf8.java
+END
+RegexFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/RegexFilter.java
+END
+RegexReplaceFLet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/RegexReplaceFLet.java
+END
+DbUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alit/!svn/ver/25/trunk/alit-webapp/src/main/java/anna/alit/utilities/DbUtil.java
+END
+TestMainFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/33/trunk/alit-webapp/src/main/java/anna/alit/utilities/TestMainFeatures.java
+END
+CreateSiteMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alit/!svn/ver/25/trunk/alit-webapp/src/main/java/anna/alit/utilities/CreateSiteMap.java
+END
+UpdateAesPwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/UpdateAesPwd.java
+END
+InsertMoreStructures.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/InsertMoreStructures.java
+END
+InsertUsrAndPwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/InsertUsrAndPwd.java
+END
+XhtmlEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/XhtmlEncoder.java
+END
+Breakpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/Breakpoint.java
+END
+UtilService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/UtilService.java
+END
+CreateTxtAziende.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/CreateTxtAziende.java
+END
+RetrieveDecryptedPwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/alit/!svn/ver/39/trunk/alit-webapp/src/main/java/anna/alit/utilities/RetrieveDecryptedPwd.java
+END
+Aes.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/utilities/Aes.java
+END

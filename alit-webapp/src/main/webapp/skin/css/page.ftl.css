@@ -1,0 +1,12 @@
+/* $Revision:121 $
+ * :encoding=UTF-8:
+ */
+
+html, body { width:100%; height:100%; margin:0px; padding:0px; background-color:white; color:#000000; font-family:Verdana,Helvetica,sans-serif; }
+body.organic {  }
+
+.organic .loginBody { margin-left:auto; margin-top:2em; margin-right:auto; width:220px; }
+
+#organicLoadingPanel { z-index:50; width:100%; height:100%; background:white; overflow:hidden; }
+
+

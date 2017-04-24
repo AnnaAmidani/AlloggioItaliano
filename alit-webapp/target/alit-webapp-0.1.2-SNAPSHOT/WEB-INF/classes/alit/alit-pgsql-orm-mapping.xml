@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="http://java.sun.com/xml/ns/persistence/orm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm http://java.sun.com/xml/ns/persistence/orm_2_0.xsd" version="2.0">
+
+ <!-- real jpa entities -->
+ <entity class="anna.alit.model.AziendeModel">
+  <attribute-override name="sigla"><column column-definition="bpchar"/></attribute-override>
+  <attribute-override name="tipologia"><column column-definition="bpchar"/></attribute-override>
+ </entity>
+ <entity class="anna.alit.model.Titolare">
+  <attribute-override name="id"><column name="codice"/></attribute-override>
+ </entity>
+ <entity class="anna.alit.model.Banners">
+  <attribute-override name="id"><column name="codicebanner"/></attribute-override>
+  <!--
+  <attribute-override name="regione"><column column-definition="varchar"/></attribute-override>
+  <attribute-override name="tipologia"><column column-definition="varchar(2)"/></attribute-override>
+   -->
+ </entity>
+ <entity class="anna.alit.model.Regione"></entity>
+ <entity class="anna.alit.model.Calendario">
+  <attribute-override name="id"><column name="id_calendario"/></attribute-override>
+ </entity>
+ <entity class="anna.alit.model.Segnalazioni">
+  <attribute-override name="id"><column name="codice"/></attribute-override>
+ </entity>
+ <entity class="anna.alit.model.Tipologia">
+  <attribute-override name="id"><column name="codice"/></attribute-override>
+ </entity>
+ <entity class="anna.alit.model.Caratteristiche">
+  <attribute-override name="id"><column name="cod"/></attribute-override>
+ </entity>
+
+<!--
+ <embeddable class="anna.alit.model.AziendeId">
+  <attribute-override name="sigla"><column column-definition="varchar"/></attribute-override>
+ </embeddable>
+ -->
+</entity-mappings>

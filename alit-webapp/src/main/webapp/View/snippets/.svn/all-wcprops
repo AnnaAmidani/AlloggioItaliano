@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/webapp/View/snippets
+END
+new_left.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/44/trunk/alit-webapp/src/main/webapp/View/snippets/new_left.jsp
+END
+new_right.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/36/trunk/alit-webapp/src/main/webapp/View/snippets/new_right.jsp
+END
+new_footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/snippets/new_footer.jsp
+END
+indice.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/snippets/indice.jsp
+END
+flags.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/47/trunk/alit-webapp/src/main/webapp/View/snippets/flags.jsp
+END
+right_navigation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/44/trunk/alit-webapp/src/main/webapp/View/snippets/right_navigation.jsp
+END
+navmenu_registrazione.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/snippets/navmenu_registrazione.jsp
+END
+locale_resolver.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/snippets/locale_resolver.jsp
+END
+new_sub_footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/snippets/new_sub_footer.jsp
+END
+head.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/snippets/head.jsp
+END
+new_header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alit/!svn/ver/40/trunk/alit-webapp/src/main/webapp/View/snippets/new_header.jsp
+END

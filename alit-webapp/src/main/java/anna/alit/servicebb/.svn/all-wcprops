@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alit/!svn/ver/6/trunk/alit-webapp/src/main/java/anna/alit/servicebb
+END
+RegisterService2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/RegisterService2Impl.java
+END
+GetAlloggioDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/GetAlloggioDataImpl.java
+END
+AlitService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/AlitService.java
+END
+EmailConnectionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/EmailConnectionServiceImpl.java
+END
+JspService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/JspService.java
+END
+GetSegnalazioniData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/GetSegnalazioniData.java
+END
+AlloggioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/AlloggioService.java
+END
+FormService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/FormService.java
+END
+UpRegService1.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/UpRegService1.java
+END
+RegProvComServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/RegProvComServiceImpl.java
+END
+RegisterService2.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/RegisterService2.java
+END
+GetAlloggioData.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/GetAlloggioData.java
+END
+EmailConnectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/EmailConnectionService.java
+END
+DynamicInsertImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DynamicInsertImpl.java
+END
+RegProvComService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/RegProvComService.java
+END
+ServicesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/ServicesImpl.java
+END
+DynamicSelectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DynamicSelectImpl.java
+END
+UtilityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/UtilityServiceImpl.java
+END
+DbmsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DbmsImpl.java
+END
+RegisterService1Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/RegisterService1Impl.java
+END
+DynamicInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DynamicInsert.java
+END
+DynamicUpdateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DynamicUpdateImpl.java
+END
+Services.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/Services.java
+END
+DynamicSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DynamicSelect.java
+END
+UtilityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/UtilityService.java
+END
+Dbms.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/Dbms.java
+END
+SegnalazioniServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/SegnalazioniServiceImpl.java
+END
+RegisterService1.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/RegisterService1.java
+END
+TitolareServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/TitolareServiceImpl.java
+END
+DynamicUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/DynamicUpdate.java
+END
+AlitServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/6/trunk/alit-webapp/src/main/java/anna/alit/servicebb/AlitServiceImpl.java
+END
+JspServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/JspServiceImpl.java
+END
+GetSegnalazioniDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/GetSegnalazioniDataImpl.java
+END
+AlloggioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/AlloggioServiceImpl.java
+END
+SegnalazioniService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/SegnalazioniService.java
+END
+TitolareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/TitolareService.java
+END
+FormServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/FormServiceImpl.java
+END
+UpRegService1Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/servicebb/UpRegService1Impl.java
+END

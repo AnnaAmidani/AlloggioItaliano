@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/resources/it_IT
+END
+logged_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/logged_plain.ftl
+END
+logged_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/logged_html.ftl
+END
+delete_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/delete_plain.ftl
+END
+primoContatto_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/primoContatto_plain.ftl
+END
+delete_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/delete_html.ftl
+END
+primoContatto_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/primoContatto_html.ftl
+END
+mailformtouser_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/resources/it_IT/mailformtouser_plain.ftl
+END
+ok_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/ok_plain.ftl
+END
+mailformtouser_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/resources/it_IT/mailformtouser_html.ftl
+END
+ok_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/ok_html.ftl
+END
+deleteConfirm_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/deleteConfirm_plain.ftl
+END
+deleteConfirm_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/deleteConfirm_html.ftl
+END
+mailtostruttura_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/resources/it_IT/mailtostruttura_plain.ftl
+END
+mailtostruttura_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/28/trunk/alit-webapp/src/main/resources/it_IT/mailtostruttura_html.ftl
+END
+contatti_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/contatti_plain.ftl
+END
+registrazione_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/registrazione_plain.ftl
+END
+retrieve_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/retrieve_plain.ftl
+END
+contatti_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/contatti_html.ftl
+END
+registrazione_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/registrazione_html.ftl
+END
+retrieve_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/retrieve_html.ftl
+END
+home_plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/home_plain.ftl
+END
+home_html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/resources/it_IT/home_html.ftl
+END

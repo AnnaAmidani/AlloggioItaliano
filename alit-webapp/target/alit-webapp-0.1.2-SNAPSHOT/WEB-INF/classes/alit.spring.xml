@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: alit.spring.xml 477 2011-10-04 14:04:32Z anna.amidani $ -->
+<!-- Copyright (c) 1999-2008 [an5tash@gmail.com] -->
+<!-- All rights reserved. -->
+<!-- :xml.validate=true: -->
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.springframework.org/schema/beans"
+ xmlns:context="http://www.springframework.org/schema/context"
+ xmlns:util="http://www.springframework.org/schema/util"
+ xmlns:aop="http://www.springframework.org/schema/aop"
+ xmlns:jee="http://www.springframework.org/schema/jee"
+ xmlns:tx="http://www.springframework.org/schema/tx"
+ xsi:schemaLocation="
+  http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+  http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+  http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
+  http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+  http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd
+  http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+  ">
+
+  <!--================================================================-->
+  <!--    -->
+  <!--================================================================-->
+
+  <!-- Activates Spring, JSR 250 and JPA annotations -->
+ <context:annotation-config />
+ <aop:aspectj-autoproxy proxy-target-class="true" />
+
+<!-- -->
+ <import resource="classpath:/alit/alit-ds.spring.xml"/>
+ <import resource="classpath:/alit/alit-security.spring.xml"/>
+
+ <!-- datasource -->
+ <jee:jndi-lookup id="dataSource" jndi-name="jdbc/alitDs"></jee:jndi-lookup>
+
+ <!-- scans -->
+ <context:component-scan base-package="anna.alit" />
+
+ <!-- ================================================================ -->
+ <!--   organic (and struts2) integrations                             -->
+ <!-- ================================================================ -->
+ <context:component-scan base-package="mic.organic.vfs"/>
+ <context:component-scan base-package="mic.organic.l10n"/>
+ <context:component-scan base-package="anna.alit.admin"/>
+ <!--
+ <context:component-scan base-package="mic.organic.scripting"/>
+ <context:component-scan base-package="mic.organic.aaa.jpa"/>
+ <context:component-scan base-package="mic.organic.aaa.dao"/>
+ <context:component-scan base-package="mic.organic.aaa.spi"/>
+ <context:component-scan base-package="mic.organic.json"/>
+  -->
+ <context:component-scan base-package="mic.organic.web.spi"/>
+ <context:component-scan base-package="mic.organic.web.struts2"/>
+
+ <!--  -->
+ <bean id="organicSession" class="anna.alit.admin.AlitSessionImpl" scope="session">
+  <aop:scoped-proxy/>
+ </bean>
+
+ <!--================================================================-->
+ <!--  -->
+ <!--================================================================-->
+ <!-- properties -->
+ <bean class="org.springframework.beans.factory.config.PropertyOverrideConfigurer">
+  <property name="ignoreResourceNotFound" value="true" />
+  <property name="locations">
+   <list>
+    <value>classpath:/alit.properties</value>
+    <value>file:./alit.properties</value>
+   </list>
+  </property>
+ </bean>
+
+ <!-- dbms -->
+ <bean id="dbms" class="anna.alit.servicebb.DbmsImpl" scope="request">
+  <aop:scoped-proxy />
+ </bean>
+
+ <!-- i18n Spring-support localization
+ <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">
+  <property name="basenames">
+   <list>
+    <value>messages</value>
+   </list>
+  </property>
+ </bean>-->
+
+ <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+   <property name="basename" value="classpath:messages"/>
+   <property name="defaultEncoding" value="UTF-8"/>
+</bean>
+
+ <bean id="genericController" class="anna.alit.controller.GenericController" />
+ <bean id="requestContext" class="org.springframework.web.servlet.support.RequestContext" />
+
+
+ <bean id="localeResolver" class="org.springframework.web.servlet.i18n.SessionLocaleResolver"/>
+ <!--
+  <bean id="localeResolver" class="org.springframework.web.servlet.i18n.CookieLocaleResolver">
+    <property name="cookieName" value="locale" />
+    <property name="cookieMaxAge" value="10000" />
+    <property name="defaultLocale" value="it" />
+  </bean>-->
+
+  <!-- ========================= CONTROLLER DEFINITIONS ========================= -->
+
+  <!--
+    - Interceptors will pre-handle any request in this servlet, no matter which controller - is mapped for a request. - - We use two
+    built-in interceptors to detect user locale or theme change requests. - The third interceptor is specific to this Demo. It allows views
+    to easily be aware - about the configuration detected. Precisely to know if a copy data to database can be - proposed to the user.
+  -->
+
+
+ <bean id="localeChangeInterceptor" class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor">
+  <property name="paramName" value="locale" />
+ </bean>
+
+ <bean class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+  <property name="mappings">
+   <props>
+    <prop key="/*">genericController</prop>
+   </props>
+  </property>
+  <property name="order" value="0" />
+ </bean>
+
+  <!-- scans -->
+ <context:component-scan base-package="anna.alit.email" />
+
+
+ <!--================================================================-->
+ <!--    mail  -->
+ <!--================================================================-->
+ <!--  -->
+ <bean id="sender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+  <property name="host" value="localhost" />
+ </bean>
+
+ <!-- freeMarker -->
+ <bean id="freeMarkerConfiguer" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+  <property name="templateLoaderPath" value="classpath:/" />
+   <property name="freemarkerSettings">
+	<props>
+	<prop key="default_encoding">UTF-8</prop>
+	</props>
+  </property>
+ </bean>
+
+</beans>
+

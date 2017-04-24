@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alit/!svn/ver/32/trunk/alit-webapp/src/main/webapp/View
+END
+Registrazione1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/Registrazione1.jsp
+END
+eventiSpettacoliForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alit/!svn/ver/39/trunk/alit-webapp/src/main/webapp/View/eventiSpettacoliForm.jsp
+END
+cancellazione.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/cancellazione.jsp
+END
+Registrazione2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/Registrazione2.jsp
+END
+doLogReset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/doLogReset.jsp
+END
+Registrazione3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/Registrazione3.jsp
+END
+mailFormToUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/mailFormToUser.jsp
+END
+Registrazione4.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/Registrazione4.jsp
+END
+doLogChange.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/doLogChange.jsp
+END
+__simplesearch.jsp__
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/33/trunk/alit-webapp/src/main/webapp/View/__simplesearch.jsp__
+END
+mostreMusei.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/mostreMusei.jsp
+END
+okImage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/okImage.jsp
+END
+contratto.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/contratto.jsp
+END
+abbonamenti.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alit/!svn/ver/41/trunk/alit-webapp/src/main/webapp/View/abbonamenti.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/index.html
+END
+festeFiere.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/festeFiere.jsp
+END
+carica.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/carica.jsp
+END
+MailtoStruttura.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/MailtoStruttura.jsp
+END
+doLogChangeError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/doLogChangeError.jsp
+END
+retrievePwdForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/retrievePwdForm.jsp
+END
+corsiPercorsi.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/corsiPercorsi.jsp
+END
+presentazione.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/18/trunk/alit-webapp/src/main/webapp/View/presentazione.jsp
+END
+errorPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/errorPage.jsp
+END
+cancellazioneForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/cancellazioneForm.jsp
+END
+mostreMuseiDescr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/24/trunk/alit-webapp/src/main/webapp/View/mostreMuseiDescr.jsp
+END
+mostreMuseiForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/mostreMuseiForm.jsp
+END
+logged.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alit/!svn/ver/39/trunk/alit-webapp/src/main/webapp/View/logged.jsp
+END
+__numeroRisultati.jsp__
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alit/!svn/ver/33/trunk/alit-webapp/src/main/webapp/View/__numeroRisultati.jsp__
+END
+doLog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/doLog.jsp
+END
+festeFiereForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/festeFiereForm.jsp
+END
+mailForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/mailForm.jsp
+END
+corsiPercorsiDescr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/24/trunk/alit-webapp/src/main/webapp/View/corsiPercorsiDescr.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/index.jsp
+END
+scheda1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alit/!svn/ver/45/trunk/alit-webapp/src/main/webapp/View/scheda1.jsp
+END
+ok.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/ok.jsp
+END
+scheda2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alit/!svn/ver/39/trunk/alit-webapp/src/main/webapp/View/scheda2.jsp
+END
+pdf.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/pdf.jsp
+END
+scheda3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alit/!svn/ver/41/trunk/alit-webapp/src/main/webapp/View/scheda3.jsp
+END
+corsiPercorsiForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/corsiPercorsiForm.jsp
+END
+alloggioRis_ordinamento.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/40/trunk/alit-webapp/src/main/webapp/View/alloggioRis_ordinamento.jsp
+END
+alloggioRis.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alit/!svn/ver/34/trunk/alit-webapp/src/main/webapp/View/alloggioRis.jsp
+END
+pubblicita.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/pubblicita.jsp
+END
+simplesearchResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/simplesearchResult.jsp
+END
+image.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/image.jsp
+END
+eventiSpettacoli.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/39/trunk/alit-webapp/src/main/webapp/View/eventiSpettacoli.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alit/!svn/ver/44/trunk/alit-webapp/src/main/webapp/View/home.jsp
+END
+eventi.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alit/!svn/ver/35/trunk/alit-webapp/src/main/webapp/View/eventi.jsp
+END
+alreadyRegistered.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/alreadyRegistered.jsp
+END
+pubblicitaesterna.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/pubblicitaesterna.jsp
+END
+logo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/logo.jsp
+END
+festeFiereDescr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alit/!svn/ver/24/trunk/alit-webapp/src/main/webapp/View/festeFiereDescr.jsp
+END
+eventiSpettacoliDescr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/24/trunk/alit-webapp/src/main/webapp/View/eventiSpettacoliDescr.jsp
+END
+banner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/View/banner.jsp
+END

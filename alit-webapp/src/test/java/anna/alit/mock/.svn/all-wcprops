@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock
+END
+UrlRewriteConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/UrlRewriteConfigurationTest.java
+END
+ServicesMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/ServicesMock.java
+END
+HttpSessionMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/HttpSessionMock.java
+END
+UpRegService1Mock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/UpRegService1Mock.java
+END
+FormServiceMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/FormServiceMock.java
+END
+UtilityServiceMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/UtilityServiceMock.java
+END
+DbmsMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/DbmsMock.java
+END
+RegisterService1Mock.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/RegisterService1Mock.java
+END
+RegisterService2Mock.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/RegisterService2Mock.java
+END
+DynamicUpdateMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/DynamicUpdateMock.java
+END
+HttpServletRequestMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/HttpServletRequestMock.java
+END
+RequestDispatcherMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/RequestDispatcherMock.java
+END
+HttpServletResponseMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/HttpServletResponseMock.java
+END
+TitolareServiceMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/TitolareServiceMock.java
+END
+SegnalazioniServiceMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/SegnalazioniServiceMock.java
+END
+RegProvComServiceMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/RegProvComServiceMock.java
+END
+DynamicInsertMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/DynamicInsertMock.java
+END
+AlloggioServiceMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/mock/AlloggioServiceMock.java
+END

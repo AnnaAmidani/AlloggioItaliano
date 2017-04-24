@@ -1,0 +1,70 @@
+10
+
+dir
+32
+https://185.17.106.72/svn/alit/trunk/alit-webapp/src/main/java/anna/alit
+https://185.17.106.72/svn/alit
+
+
+
+2013-03-19T13:04:00.316806Z
+28
+anna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eed08a45-ad1c-49d0-91d2-c0e98da6f0de
+
+servicexhtml
+dir
+
+old
+dir
+
+model
+dir
+
+gateway
+dir
+
+controller
+dir
+
+dao
+dir
+
+jee
+dir
+
+servicebb
+dir
+
+email
+dir
+
+admin
+dir
+
+beanbb
+dir
+
+json
+dir
+
+multimedia
+dir
+
+utilities
+dir
+

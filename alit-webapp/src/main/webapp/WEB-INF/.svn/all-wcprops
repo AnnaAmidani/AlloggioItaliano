@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alit/!svn/ver/21/trunk/alit-webapp/src/main/webapp/WEB-INF
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/decorators.xml
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alit/!svn/ver/3/trunk/alit-webapp/src/main/webapp/WEB-INF/spring.tld
+END
+alitLocale-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/alitLocale-servlet.xml
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/applicationContext-security.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alit/!svn/ver/21/trunk/alit-webapp/src/main/webapp/WEB-INF/web.xml
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/sitemesh.xml
+END
+urlrewrite3.1.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/urlrewrite3.1.dtd
+END
+__jetty-env.xml__
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alit/!svn/ver/33/trunk/alit-webapp/src/main/webapp/WEB-INF/__jetty-env.xml__
+END
+urlrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/urlrewrite.xml
+END

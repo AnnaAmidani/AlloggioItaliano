@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/lib
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/lib/spring.tld
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/lib/jstl.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/lib/standard.jar
+END

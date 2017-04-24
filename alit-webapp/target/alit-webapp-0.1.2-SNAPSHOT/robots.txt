@@ -1,0 +1,111 @@
+Sitemap: http://www.alloggioitaliano.it/alloggio_italiano_sitemap.xml
+
+#pagine amministrative
+User-agent: *
+Disallow: /admin/
+Disallow: /s/
+Disallow: /jspService/
+Disallow: /docs/
+Disallow: /alloggio/
+
+User-Agent: Googlebot-Image
+Disallow: /
+
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+#Aggiunto il 16 maggio 2005
+User-agent: Microsoft URL
+Disallow: /
+
+#Aggiunto il 14 febbraio 2003
+User-agent: webmirror
+Disallow: /
+
+#Aggiunto il 14 febbraio 2003
+User-agent: webcopy
+Disallow: /
+
+#Aggiunto il 03 agosto 2002
+User-agent: WinHTTrack
+Disallow: /
+
+#Aggiunto il 03 agosto 2002
+User-agent: website extractor
+Disallow: /
+
+User-agent: DISCo Pump 3.1
+Disallow: /
+
+User-agent: NetAttache
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: Crescent
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: ProWebWalker
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: MIIxpc
+Disallow: /
+
+User-agent: Telesoft
+Disallow: /
+
+User-agent: Website Quester
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebStripper/2.02
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: NetAnts
+Disallow: /
+
+User-agent: Mister PiX
+Disallow: /
+
+User-agent: WebAuto
+Disallow: /
+
+User-agent: TheNomad
+Disallow: /
+
+User-agent: spanner
+Disallow: /
+

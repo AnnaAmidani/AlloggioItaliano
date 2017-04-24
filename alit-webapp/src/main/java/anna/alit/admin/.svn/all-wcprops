@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alit/!svn/ver/24/trunk/alit-webapp/src/main/java/anna/alit/admin
+END
+AlitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/admin/AlitAction.java
+END
+AdminActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/admin/AdminActions.java
+END
+BannerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/admin/BannerServlet.java
+END
+AdminActionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alit/!svn/ver/24/trunk/alit-webapp/src/main/java/anna/alit/admin/AdminActionsImpl.java
+END
+AlitDatastoreAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/admin/AlitDatastoreAction.java
+END
+AlitSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/admin/AlitSessionImpl.java
+END
+PreBannerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/java/anna/alit/admin/PreBannerServlet.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/decorators
+END
+plain-alit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/decorators/plain-alit.ftl
+END
+dojo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/decorators/dojo.ftl
+END
+plain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/main/webapp/WEB-INF/decorators/plain.ftl
+END

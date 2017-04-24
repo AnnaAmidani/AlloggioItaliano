@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/alit/!svn/ver/33/trunk/alit-webapp
+END
+jetty_debug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/alit/!svn/ver/1/trunk/alit-webapp/jetty_debug.sh
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alit/!svn/ver/25/trunk/alit-webapp/.classpath
+END
+jetty-env-sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alit/!svn/ver/1/trunk/alit-webapp/jetty-env-sample.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/alit/!svn/ver/1/trunk/alit-webapp/.project
+END
+jetty-env.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/alit/!svn/ver/33/trunk/alit-webapp/jetty-env.xml
+END
+temp-testng-customsuite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alit/!svn/ver/1/trunk/alit-webapp/temp-testng-customsuite.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/alit/!svn/ver/1/trunk/alit-webapp/pom.xml
+END
+alloggio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alit/!svn/ver/1/trunk/alit-webapp/alloggio.xml
+END
+jetty_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alit/!svn/ver/1/trunk/alit-webapp/jetty_run.sh
+END

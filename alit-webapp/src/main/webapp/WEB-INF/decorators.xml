@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: decorators.xml 477 2011-10-04 14:04:32Z anna.amidani $ -->
+<!-- Copyright(C) 2008 [an5tash@gmail.com] -->
+<!-- All rights reserved. -->
+<!-- :xml.validate=true: -->
+
+<!-- decorators -->
+<decorators defaultdir="/WEB-INF/decorators">
+ <excludes>
+  <pattern>/index.*</pattern>
+  <pattern>/css/*</pattern>
+  <pattern>/js/*</pattern>
+  <pattern>/static/*</pattern>
+  <pattern>/struts/*</pattern>
+  <pattern>/nodecorate/*</pattern>
+  <pattern>/s/download.action</pattern>
+ </excludes>
+
+ <decorator name="plain" page="plain-alit.ftl">
+  <pattern>/o/*.action</pattern>
+ </decorator>
+
+ <decorator name="dojo" page="dojo.ftl">
+  <pattern>/s/*.action</pattern>
+ </decorator>
+</decorators>
+

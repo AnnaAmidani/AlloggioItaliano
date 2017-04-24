@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id:arki-webapp.orm.spring.xml 1183 2008-04-03 22:31:53Z an5tash@gmail.com $ -->
+<!-- Copyright (c) 2002 [company-name] -->
+<!-- All rights reserved. -->
+<!-- :xml.validate=true: -->
+<beans
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.springframework.org/schema/beans"
+ xmlns:p="http://www.springframework.org/schema/p"
+ xmlns:context="http://www.springframework.org/schema/context"
+ xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+ xmlns:util="http://www.springframework.org/schema/util"
+ xmlns:aop="http://www.springframework.org/schema/aop"
+ xmlns:tx="http://www.springframework.org/schema/tx"
+ xmlns:jee="http://www.springframework.org/schema/jee"
+ xsi:schemaLocation="
+  http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+  http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+  http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc-3.0.xsd
+  http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
+  http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+  http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+  http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd
+  ">
+
+
+ <!-- ================================================================ -->
+ <!--                                                                  -->
+ <!-- ================================================================ -->
+ <!-- Activates Spring, JSR 250 and JPA annotations -->
+ <context:annotation-config/>
+ <aop:aspectj-autoproxy proxy-target-class="true"/>
+
+
+ <bean class="org.springframework.beans.factory.config.PropertyOverrideConfigurer">
+  <property name="properties">
+   <value>
+    entityManagerFactory.persistenceXmlLocation=classpath:/alit/alit-persistence.xml
+    entityManagerFactory.persistenceUnitName=alit-dev
+    entityManagerFactory.jpaVendorAdapter.showSql=false
+
+    #dataSource.url=jdbc:h2:mem:target/h2/utest
+
+    #dataSource.driverClassName=org.postgresql.Driver
+    #dataSource.url=jdbc:postgresql://127.0.0.1/miirc
+    #dataSource.username=mic
+    #dataSource.password=ciao
+
+    #organicVfs.disableTmpCleaning=true
+   </value>
+  </property>
+ </bean>
+
+
+ <import resource="classpath:/alit/alit-ds.spring.xml"/>
+
+ <!-- scans -->
+ <context:component-scan base-package="anna.alit">
+  <context:exclude-filter type="regex" expression="anna.alit.email.*"/>
+  <context:exclude-filter type="assignable" expression="anna.alit.servicebb.AlitService"/>
+ </context:component-scan>
+
+ <!-- dbms -->
+ <bean id="dbms" class="anna.alit.servicebb.DbmsImpl" scope="singleton">
+  <aop:scoped-proxy />
+ </bean>
+
+ <!-- ================================================================ -->
+ <!--                                                                  -->
+ <!-- ================================================================ -->
+ <!-- properties-->
+ <!--
+ <bean class="org.springframework.beans.factory.config.PropertyOverrideConfigurer">
+  <property name="properties">
+   <value>
+    #sender.username=contatti@alloggioitaliano.it
+    #sender.password=ciao15
+    #sender.host=smtp.alloggioitaliano.it
+    #sender.port=25
+   </value>
+  </property>
+ </bean>
+ -->
+ <!-- ================================================================ -->
+ <!--    datasource                                                    -->
+ <!-- ================================================================ -->
+ <!-- derby -->
+ <!-- <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close"
+       p:driverClassName="org.postgresql.Driver"
+       p:url="jdbc:postgresql://localhost:5432/bb_db"
+       p:username="mic"
+       p:password="ciao"
+       p:initialSize="2"
+       p:maxActive="8"
+       />
+ -->
+
+ <!--
+ <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close"
+       p:driverClassName="org.h2.Driver"
+       p:url="jdbc:h2:mem"
+       p:username="sa"
+       p:password="organic"
+       />
+       -->
+ <jdbc:embedded-database id="dataSource" type="H2">
+  <jdbc:script location="classpath:test-data.sql"/>
+ </jdbc:embedded-database>
+
+
+</beans>

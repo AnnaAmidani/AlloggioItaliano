@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb
+END
+AlloggioServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/AlloggioServiceTest.java
+END
+SegnalzioniServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/SegnalzioniServiceTest.java
+END
+ServicesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/ServicesTest.java
+END
+RegProvComServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/RegProvComServiceTest.java
+END
+TitolareServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/TitolareServiceTest.java
+END
+UpRegService1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/UpRegService1Test.java
+END
+UtilityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/UtilityServiceTest.java
+END
+RegisterService1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/RegisterService1Test.java
+END
+RegisterService2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/java/anna/alit/servicebb/RegisterService2Test.java
+END

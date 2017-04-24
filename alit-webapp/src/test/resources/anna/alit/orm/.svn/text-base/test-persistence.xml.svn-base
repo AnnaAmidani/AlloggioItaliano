@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: test-persistence.xml 336 2010-10-23 19:30:09Z anna.amidani $ -->
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+
+ <!-- test-alit -->
+ <persistence-unit name="test-alit" transaction-type="RESOURCE_LOCAL">
+  <provider>org.hibernate.ejb.HibernatePersistence</provider>
+  <!--
+  <mapping-file>META-INF/organic-aaa-orm.xml</mapping-file>
+  <mapping-file>META-INF/organic-core-orm.xml</mapping-file>
+  <exclude-unlisted-classes/>
+   -->
+  <properties>
+   <property name="hibernate.id.new_generator_mappings" value="true"/>
+   <!-- Hibernate settings (validate | update | create | create-drop) -->
+   <property name="hibernate.hbm2ddl.auto" value="update"/>
+   <property name="hibernate.bytecode.provider" value="javassist"/>
+   <property name="hibernate.cache.provider_class" value="org.hibernate.cache.HashtableCacheProvider"/>
+   <property name="hibernate.show_sql" value="false"/>
+   <property name="hibernate.format_sql" value="true"/>
+  </properties>
+ </persistence-unit>
+</persistence>
+

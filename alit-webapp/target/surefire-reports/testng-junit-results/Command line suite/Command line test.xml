@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test" failures="0" tests="2" time="0.01" errors="0">
+  <properties/>
+  <testcase name="testRewrite1 on instance testRewrite1(anna.alit.mock.UrlRewriteConfigurationTest)" time="0.0020" classname="anna.alit.mock.UrlRewriteConfigurationTest"/>
+  <testcase name="testRewrite2 on instance testRewrite2(anna.alit.mock.UrlRewriteConfigurationTest)" time="0.0" classname="anna.alit.mock.UrlRewriteConfigurationTest"/>
+</testsuite>

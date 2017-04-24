@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources
+END
+test-image.spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources/test-image.spring.xml
+END
+test-mail.spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources/test-mail.spring.xml
+END
+test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources/test-data.sql
+END
+guru.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources/guru.png
+END
+test-alit.spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources/test-alit.spring.xml
+END
+iface.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alit/!svn/ver/1/trunk/alit-webapp/src/test/resources/iface.png
+END

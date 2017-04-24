@@ -1,0 +1,74 @@
+#! /bin/sh
+
+for x in ls *.jsp; 
+do sed 's/serviceBB/anna\.alit\.servicebb/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/beanBB/anna\.alit\.beanbb/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/serviceXHTML/anna\.alit\.servicexhtml/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/JspService/JspServiceImpl\.getInstance()/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/TitolareService/TitolareServiceImpl\.getInstance()/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/GetAlloggioData/GetAlloggioDataImpl\.getInstance()/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/GetSegnalazioniData/GetSegnalazioniDataImpl\.getInstance()/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/FormService/FormServiceImpl\.getInstance()/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/onSubmit/onsubmit/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/smaller/small/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/heigth/height/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
+for x in ls *.jsp; 
+do sed 's/widht/width/g' $x > temp; 
+cat temp > $x; 
+rm temp;
+done
+
