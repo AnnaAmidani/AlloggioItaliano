@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="alit-webapp">
-  <test verbose="2" name="anna.alit.servicebb.RegisterService1Test" annotations="JDK">
-    <classes>
-      <class name="anna.alit.servicebb.RegisterService1Test"/>
-    </classes>
-  </test>
-</suite>
